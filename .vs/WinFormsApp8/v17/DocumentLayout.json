@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|e:\\visual studio\\\u043E\u043E\u043F\\winformsapp8\\winformsapp8\\dogbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|solutionrelative:winformsapp8\\dogbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|e:\\visual studio\\\u043E\u043E\u043F\\winformsapp8\\winformsapp8\\custombreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|solutionrelative:winformsapp8\\custombreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|e:\\visual studio\\\u043E\u043E\u043F\\winformsapp8\\winformsapp8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|solutionrelative:winformsapp8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|e:\\visual studio\\\u043E\u043E\u043F\\winformsapp8\\winformsapp8\\dogbreeds.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|solutionrelative:winformsapp8\\dogbreeds.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|e:\\visual studio\\\u043E\u043E\u043F\\winformsapp8\\winformsapp8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|solutionrelative:winformsapp8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|e:\\visual studio\\\u043E\u043E\u043F\\winformsapp8\\winformsapp8\\dogcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|solutionrelative:winformsapp8\\dogcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|e:\\visual studio\\\u043E\u043E\u043F\\winformsapp8\\winformsapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE4A154-03F5-43A6-A3E0-570E865695D7}|WinFormsApp8\\WinFormsApp8.csproj|solutionrelative:winformsapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dogbreeds.txt",
+              "DocumentMoniker": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\dogbreeds.txt",
+              "RelativeDocumentMoniker": "WinFormsApp8\\dogbreeds.txt",
+              "ToolTip": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\dogbreeds.txt",
+              "RelativeToolTip": "WinFormsApp8\\dogbreeds.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-28T06:50:19.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomBreed.cs",
+              "DocumentMoniker": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\CustomBreed.cs",
+              "RelativeDocumentMoniker": "WinFormsApp8\\CustomBreed.cs",
+              "ToolTip": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\CustomBreed.cs",
+              "RelativeToolTip": "WinFormsApp8\\CustomBreed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:36:12.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp8\\Program.cs",
+              "ToolTip": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\Program.cs",
+              "RelativeToolTip": "WinFormsApp8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:35:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp8\\Form1.Designer.cs",
+              "ToolTip": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp8\\Form1.Designer.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAQwKgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:35:09.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DogCatalog.cs",
+              "DocumentMoniker": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\DogCatalog.cs",
+              "RelativeDocumentMoniker": "WinFormsApp8\\DogCatalog.cs",
+              "ToolTip": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\DogCatalog.cs",
+              "RelativeToolTip": "WinFormsApp8\\DogCatalog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:29:50.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp8\\Form1.cs",
+              "ToolTip": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp8\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:26:52.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogBreed.cs",
+              "DocumentMoniker": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\DogBreed.cs",
+              "RelativeDocumentMoniker": "WinFormsApp8\\DogBreed.cs",
+              "ToolTip": "E:\\visual studio\\\u043E\u043E\u043F\\WinFormsApp8\\WinFormsApp8\\DogBreed.cs",
+              "RelativeToolTip": "WinFormsApp8\\DogBreed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:24:51.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
